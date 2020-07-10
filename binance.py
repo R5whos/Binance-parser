@@ -10,7 +10,9 @@ def binance(link):
 		request = requests.get(base_url)
 		data = loads(request.text)
 		print(data[0])
-
+		
+		return data
+		
 		f = open('one.txt', 'w', encoding='utf-8')
 
 		f.write(f'''
