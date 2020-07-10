@@ -9,7 +9,7 @@ Python3 Binance parser
 
 # Как пользоваться
 
-<code> импорт импорта </code>
+<code> import binance </code>
 
 <code> link = 'введите ссылку' </code>
 
